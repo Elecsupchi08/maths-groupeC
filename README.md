@@ -14,4 +14,4 @@ Corrections des exercices de référence (et parfois des questions de cours) des
 * Semaine 6 : Cours en distanciel (blocus, manifs dans les rues tout ça)
 * Semaine 7 : Semaine de régulation (toujours cours en distanciel en vrai)
 * [Semaine 8](/S8.pdf) : Début de la réduction, orienté vers le polynôme caractéristique
-* [Semaine 9](/S9.pdf) : 
+* [Semaine 9](/S9.pdf) : Fin de la réduction, orienté vers le polynôme minimal
